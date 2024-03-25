@@ -1,3 +1,4 @@
+//compra
 function comprar() {
     let tipo = document.getElementById('tipo-ingresso');
     let qtdInput = document.getElementById('qtd');
